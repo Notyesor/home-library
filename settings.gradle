@@ -1,0 +1,5 @@
+rootProject.name = "home-library"
+
+include 'library-web'
+include 'library-client'
+
